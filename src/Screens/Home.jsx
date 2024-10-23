@@ -22,7 +22,7 @@ export default function Home() {
             <div className='main-content container-fluid'>
                 <div className='top-bar row selectable'>
                     <div className='col-lg-6'><img src={motionartLogo} /></div>
-                    <div className='col-lg-6'><a href="" className='btn btn-lg'>Purchase Now</a></div>
+                    <div className='col-lg-6'><Link to="https://codecanyon.net/checkout/105095130/create_account?_ga=2.63492390.805683577.1728650538-371489464.1728650538"></Link></div>
                 </div>
                 <div className='main-heading-section row'>
                     <div className='col-lg-2 col-sm-12 me-5 my-5 selectable'>
@@ -93,9 +93,9 @@ export default function Home() {
             </div>
             <div className='gradient-background container-fluid'>   
                 <div className='footer row p-3 selectable'>
-                    <div className='grey-white-color col-lg-8 col-sm-12 my-2'>© 2024 Copywrite. All rights reserved by QodeMatrix Created by Vipul Patil for Practise</div>
+                    <div className='grey-white-color col-lg-8 col-sm-12 my-2'>© 2024 Copywrite. All rights reserved by QodeMatrix Created by Accentric Global</div>
                     <div className='col-lg-4 col-sm-12 row'>
-                        <div className='grey-text col-lg-6'>Documentation</div>
+                        <div className='grey-text col-lg-6'>Documentations</div>
                         <div className='grey-text col-lg-6'>Support</div>
                     </div>
                 </div>
